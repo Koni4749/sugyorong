@@ -29,3 +29,9 @@ st.image("https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=form
 
 st.markdown("---")
 st.info("💡 **시스템 메시지:** 좌측 패널의 메뉴를 클릭하여 '카오스 끌개'나 '시공간 왜곡 엔진'을 가동하십시오.")
+
+
+
+streamlit run sugyorong.py
+
+이제 `sugyorong.py`가 전체 사이트의 대문 역할을 하고, 알아서 `pages` 폴더 안의 파일들을 읽어와 왼쪽에 멋진 메뉴를 만들어 줄 것입니다. 성공적으로 우주가 열리기를 바랍니다!
